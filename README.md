@@ -21,20 +21,22 @@
 
 ---
 
-## 📫 Connect:
+## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/musaib-nagani)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/musaibnagani_)
-
-🌐 [Visit My Website](https://musaibnagani.github.io/Portfolio/)  
-📧 [naganim01@gmail.com](mailto:naganim01@gmail.com)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/musaib-nagani)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/musaibnagani_)
+[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://musaibnagani.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naganim01@gmail.com)
 
 ---
 
 ## 📊 GitHub Stats:
 
-![Musaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=MusaibNagani&show_icons=true&theme=tokyonight)
+![Musaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MusaibNagani&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Musaib's GitHub Streak](https://streak-stats.demolab.com?user=MusaibNagani&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MusaibNagani&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ---
