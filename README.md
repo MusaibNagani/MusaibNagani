@@ -29,14 +29,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naganim01@gmail.com)
 
 ---
+## 📈 Contribution Graph
 
-## 📊 GitHub Stats:
-
-![Musaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MusaibNagani&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Musaib's GitHub Streak](https://streak-stats.demolab.com?user=MusaibNagani&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MusaibNagani&layout=compact&theme=tokyonight&hide_border=true)
-
+[![Musaib's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MusaibNagani&theme=react-dark&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
