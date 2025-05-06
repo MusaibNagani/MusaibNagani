@@ -34,7 +34,7 @@
 
 ![Musaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MusaibNagani&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Musaib's GitHub Streak](https://streak-stats.demolab.com?user=MusaibNagani&theme=tokyonight&hide_border=true)
+![Musaib's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MusaibNagani&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MusaibNagani&layout=compact&theme=tokyonight&hide_border=true)
 
